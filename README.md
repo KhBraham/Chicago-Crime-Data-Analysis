@@ -74,6 +74,6 @@ Here is the nbviewer for my jupyter notebook to see all visualizations : [Notebo
 
 ## Contact Me 📨
 
-- **LinkedIn:** [Bilal Fatian](https://www.linkedin.com/in/bilal-fatian-806813254/)
-- **Gmail:** [fatian.bilal@gmail.com](mailto:fatian.bilal@gmail.com)
+- **LinkedIn:** [Brahim KHAIDER](https://www.linkedin.com/in/bilal-fatian-806813254/)
+- **Gmail:** [brkhaider2001@gmail.com](mailto:brkhaider2001@gmail.com)
 
